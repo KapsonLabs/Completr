@@ -1,0 +1,21 @@
+{
+  "name": "completr",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^6.2.4",
+    "node-sass": "4.12.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.10.0",
+    "react-scripts": "0.9.x",
+    "moment": "2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
